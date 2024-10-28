@@ -1,4 +1,6 @@
 import "../index.css";
+import 'bootstrap/dist/css/bootstrap.min.css'
+// import Button from 'react-bootstrap/Button'
 
 export default function NavBar() {
 
