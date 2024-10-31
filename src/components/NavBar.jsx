@@ -21,6 +21,9 @@ export default function NavBar() {
                 Home
               </a>
             </li>
+            <li>
+              <a className="userData" href="/increments">User Data</a>
+            </li>
           </ul>
         </nav>
       </div>

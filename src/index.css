@@ -28,7 +28,7 @@ body {
 }
 
 
-.bootstrap, .home {
+.bootstrap, .home, .userData {
   border: 5px solid rebeccapurple;
   border-radius: 15px;
   background-color: white;
@@ -68,11 +68,9 @@ body {
 }
 
 
-
-
-
-
-
+.cities {
+  width: 300px;
+}
 
 
 
